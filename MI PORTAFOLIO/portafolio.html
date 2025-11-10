@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portafolio - Esmerlin Severino Paredes</title>
+  <meta name="description" content="Portafolio digital de [Esmerlin Severino Paredes] - Matrícula: [24-EISN-2-033]">
+  <!-- Vincula el archivo CSS -->
+  <link rel="stylesheet" href="portafolio.css">
+</head>
+
+<body>
+  <div class="container">
+    <!-- Encabezado -->
+    <header>
+      <div>
+        <strong>Esmerlin Severino Paredes</strong>
+        <div class="meta">Matrícula: <span class="accent">24-EISN-2-033</span></div>
+      </div>
+      <nav>
+        <a href="#proyectos">Proyectos</a>
+        <a href="#blog">Blog</a>
+        <a href="#contacto">Contacto</a>
+      </nav>
+    </header>
+
+    <!-- Sección principal -->
+    <main>
+      <section class="hero">
+        <div class="profile-wrap">
+          <!-- Reemplaza “foto.jpg” por el nombre de tu imagen -->
+          <img class="profile" src="Esmerlin.jpg.jpg" alt="Foto de [Esmerlin Severino Paredes]">
+        </div>
+
+        <div class="about">
+          <h1>Hola, soy Esmerlin Severino Paredes</h1>
+          <div class="meta">Estudiante</div>
+          <p class="lead">
+            Soy estudiante de ingeniería de sistemas y computación. 
+            Aquí encontrarás mis proyectos, mi experiencia y una forma fácil de contactarme.
+            Este portafolio cumple la tarea de la asignatura e incluye mi blog (en Proyectos),
+            enlaces públicos en GitHub y despliegue en Vercel.
+          </p>
+
+          <div class="buttons">
+          <button class="btn" onclick="mostrarTelefono()">Contacto</button>
+<div id="telefono" style="display: none;">
+    <p>📞 Teléfono: 829-668-6259</p>
+</div>
+
+
+          </div>
+
+          <div class="projects" id="proyectos">
+            <h3>Proyectos</h3>
+            <div class="project-card">
+              <strong>Blog personal</strong>
+              <div class="meta">Enlace al blog creado en la entrega anterior</div>
+              <p>Descripción: Un blog sobre la amenazas que tren los troyanos al internet. 
+                <a href="https://sites.google.com/view/the-tecnored/p%C3%A1gina-principal">Visitar blog</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="contacto">
+        <h3>Contacto</h3>
+        <p class="meta">
+          Email: <a href="mailto:tuemail@gmail.com" class="btn">📧 Enviar correo</a>
+
+  
+        </p>
+      </section>
+    </main>
+
+    <footer>
+      Creado por Esmerlin Severino Paredes 
+    </footer>
+  </div>
+  <script>
+function mostrarTelefono() {
+    const telefono = document.getElementById("telefono");
+    if (telefono.style.display === "none") {
+        telefono.style.display = "block";
+    } else {
+        telefono.style.display = "none";
+    }
+}
+</script>
+
+</body>
+</html>
