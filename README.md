@@ -1,11 +1,11 @@
-# 🌐 Portafolio Digital — Esmerlin Severino Paredes
+#  Portafolio Digital — Esmerlin Severino Paredes
 
 **Nombre:** Esmerlin Severino Paredes  
 **Matrícula:** 24-EISN-2-033  
 
 ---
 
-## 📖 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este proyecto es un **Portafolio Digital personal** desarrollado con **HTML y CSS**, como parte de la Etapa 1 de la asignatura de desarrollo web.  
 Su propósito es presentar mi información personal, mis datos académicos y mis futuros proyectos de una manera profesional, visualmente atractiva y funcional.
@@ -18,14 +18,14 @@ El portafolio incluye:
 
 ---
 
-## 🎨 Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - **HTML5** → estructura del sitio web.  
 - **CSS3** → diseño, colores, márgenes y estilos visuales.  
 
 ---
 
-## 🧠 Aprendizajes Logrados
+##  Aprendizajes Logrados
 
 Durante la creación de este portafolio aprendí:
 - Cómo estructurar una página web con etiquetas HTML.
@@ -37,25 +37,25 @@ Durante la creación de este portafolio aprendí:
 
 ---
 
-## 🌍 Enlaces del Proyecto
+##  Enlaces del Proyecto
 
 - **Repositorio en GitHub:** https://github.com/Esmerlin24/MI-PORTAFOLIO-/edit/main/README.md 
 - **Sitio web publicado (Vercel):** [Aquí va tu enlace de Vercel]  
 
 ---
 
-## 📸 Capturas de Pantalla
+##  Capturas de Pantalla
 
 <img width="1287" height="892" alt="image" src="https://github.com/user-attachments/assets/3e439f2b-950a-4d84-9652-596e7a1c9446" />
 
 
 ---
 
-## 💬 Autor
+##  Autor
 
 **Esmerlin Severino Paredes**  
 Estudiante de Ingeniería en Sistemas  
 Matrícula: 24-EISN-2-033
 
-## 🖥️ Estructura del Proyecto
+
 
